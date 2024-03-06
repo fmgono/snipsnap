@@ -90,7 +90,7 @@
       <ul class="menu">
         <li>
           <a
-            href="https://github.com/fmgono/SnapSnip"
+            href="https://github.com/fmgono/snapsnip"
             target="_blank"
             ref="noopener noreferrer"
             ><GithubIcon class="icon" size="18" /> GitHub</a
@@ -98,7 +98,7 @@
         </li>
         <li>
           <a
-            href="https://github.com/fmgono/SnapSnip/issues"
+            href="https://github.com/fmgono/snapsnip/issues"
             target="_blank"
             ref="noopener noreferrer"
             ><GitPullRequestIcon class="icon" size="18" /> Report a bug or an

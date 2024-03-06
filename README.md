@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/fmgono/SnapSnip/master/public/logo.png" width="80px" height="80px"/>
+<img src="https://raw.githubusercontent.com/fmgono/snapsnip/master/public/logo.png" width="80px" height="80px"/>
 
 # SnapSnip
 > A Fast, tiny, in-browser, IndexedDB powered editor and Snippet manager
@@ -20,7 +20,7 @@ Built with [Vue.js](https://vuejs.org), [Dexie](https://dexie.org) and [Monaco E
 
 ## Project setup
 ```
-git clone https://github.com/fmgono/SnapSnip snippin
+git clone https://github.com/fmgono/snapsnip snippin
 cd snippin
 npm install
 ```

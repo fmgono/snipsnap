@@ -78,7 +78,7 @@ export default {
           id: "github",
           icon: "GithubIcon",
           name: "GitHub",
-          link: "https://github.com/fmgono/SnapSnip",
+          link: "https://github.com/fmgono/snapsnip",
         },
       ],
     };
